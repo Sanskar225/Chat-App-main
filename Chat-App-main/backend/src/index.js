@@ -17,7 +17,7 @@ app.use(cookieParser());
 
 const allowedOrigins = [
   process.env.CLIENT_URL,
-  "https://chatty-chat-app-lo23.onrender.com",
+  "https://chat-app-main-1-tik7.onrender.com",
   "http://localhost:5173",
 ];
 
