@@ -50,7 +50,7 @@ Chatty is a full-stack real-time chat application that allows users to sign up, 
 
 ## 🌐 Live Demo
 
-- **Chatty:** [Click Here](https://chat-app-chatty.netlify.app)
+- **Chatty:** [Click Here](https://chat-app-main-1-tik7.onrender.com/)
 
 ---
 
