@@ -1,5 +1,5 @@
 # Chatty - Real-Time Chat Application
-
+https://chat-app-main-1-tik7.onrender.com/
 ![Chatty Banner](./screenshots/ss2.png)
 
 Chatty is a full-stack real-time chat application that allows users to sign up, log in, chat with others, update their profiles, and more. It features instant messaging with Socket.IO, authentication, and a modern, responsive UI.
